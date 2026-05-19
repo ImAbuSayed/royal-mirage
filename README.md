@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/royal-mirage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Royal Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-mirage/) |
+| **Get License** | [Official Music Licensing for Royal Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-mirage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ffe419763674f22473ab2033f78356698479d500db99d4daacbf3919513836c` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
