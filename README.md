@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/royal-mirage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Royal Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-mirage/) |
+| **Get License** | [Obtain a Music License for Royal Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-mirage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਕਾਲੀ ਰਾਤ ਵਿੱਚ ਤੇਰੀਆਂ ਅੱਖਾਂ ਕਰਦੀਆਂ mesmerize
+> ਮੈਂ ਤੱਕਦਾ ਹਾਂ ਤੈਨੂੰ ਛੱਡ ਕੇ ਸਾਰੀ world
+> ਤੇਰੇ ਹਾਸੇ ਵਿੱਚ ਲੁਕਿਆ ਮੇਰਾ secret prize
+> ਮੈਂ ਭੁੱਲਦਾ ਹਾਂ ਸਭ ਕੁਝ my beautiful girl
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
